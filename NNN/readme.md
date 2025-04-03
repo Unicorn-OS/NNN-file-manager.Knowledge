@@ -1,4 +1,7 @@
-# NNN-file-manager.Knowledge
+NNN file manager
+# Home:
+https://github.com/jarun/nnn
+
 sch: https://www.google.com/search?q=nnn+file+manager https://www.youtube.com/results?search_query=NNN+linux
 
 wiki: https://en.wikipedia.org/wiki/Nnn_(file_manager)
