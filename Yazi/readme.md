@@ -1,4 +1,4 @@
-# typecraft
+# by: typecraft
 - [What the hell is Yazi ??](https://youtu.be/hrFWNuHCL8Y)
 
 # other
